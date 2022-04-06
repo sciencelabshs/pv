@@ -13,12 +13,12 @@ This project is no longer maintained. I simply don't have the time to work on it
 Trying it out
 -----------------------------------------
 
-You can try the [online demo](http://biasmv.github.io/pv/demo.html) or run it locally on your computer.
+You can try the [online demo](http://sciencelabhs.github.io/pv/demo.html) or run it locally on your computer.
 
 Clone this repository
 
 ```bash
-git clone https://github.com/biasmv/pv.git
+git clone https://github.com/sciencelabshs/pv.git
 ```
 
 Change to the `pv` directory and serve the files using the serve script in the source directory. This will start a simple static-file server using Python's SimpleHTTPServer module.
