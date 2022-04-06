@@ -13,7 +13,7 @@ This project is no longer maintained. I simply don't have the time to work on it
 Trying it out
 -----------------------------------------
 
-You can try the [online demo](http://sciencelabhs.github.io/pv/demo.html) or run it locally on your computer.
+You can try the [online demo](https://sciencelabhs.github.io/pv/demo.html) or run it locally on your computer.
 
 Clone this repository
 
